@@ -1,8 +1,11 @@
 # TPE cloud computing 
 # Liste des membres du groupe
 
-## Mbairamadji Clark conception et implémentation
-### Adolphe 
+### 1. BEDJI MOITANGAR (21A184FS)
+ ### 2. MBAIRAMADJI CLARK (21A245FS)
+ ### 3. MBAITESSEM SOSTHENE (21A763FS)
+ ### 4. MILLA FANAVA MOISE (22B568FS)
+### 5. MAHAMAT ADOUM SOULEMANE ADOUM (21A283FS)
 
 # Convertisseur de Chiffres Romains
 
