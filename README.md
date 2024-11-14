@@ -1,4 +1,8 @@
 # TPE cloud computing 
+# Liste des membres du groupe
+
+## Mbairamadji Clark conception et implémentation
+### Adolphe 
 
 # Convertisseur de Chiffres Romains
 
